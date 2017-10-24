@@ -683,5 +683,12 @@ header .sp_navi_li li a {
     padding-right: 10px;
 }}
 
-
-
+#contents #main th, #contents #main td {
+    padding: 20px 0;
+    color: #626262;
+    font-size: 14px;
+    font-size: 1.4rem;
+}
+#contents #main th {
+    padding-right: 20px;
+}
